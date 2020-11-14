@@ -15,7 +15,7 @@ public class ProjetoServiceOSJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here trar
+        System.out.println("Hello Get");
     }
     
 }
